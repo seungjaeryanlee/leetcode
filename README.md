@@ -4,6 +4,7 @@
 
 | ID | Name | Difficulty | Q | A |
 |----|------|------------|---|---|
+| 6 | ZigZag Conversion | Medium | [Q](https://leetcode.com/problems/zigzag-conversion/) | [A](/solutions/6.py) |
 | 5 | Longest Palindromic Substring | Medium | [Q](https://leetcode.com/problems/longest-palindromic-substring/) | [A](/solutions/5.py) |
 | 3 | Longest Substring Without Repeating Characters | Medium | [Q](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [A](/solutions/3.py) |
 | 2 | Add Two Numbers | Medium | Q | A |
