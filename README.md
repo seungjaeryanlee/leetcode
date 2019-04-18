@@ -4,6 +4,7 @@
 
 | ID | Name | Difficulty | Q | A |
 |----|------|------------|---|---|
+| 10 | Regular Expression Matching | Hard | [Q](https://leetcode.com/problems/regular-expression-matching/) | [A](/solutions/10.py) |
 | 9 | Palindrome Number | Easy | [Q](https://leetcode.com/problems/palindrome-number/) | [A1](/solutions/9-1.py) [A2](/solutions/9-2.py) |
 | 8 | String to Integer (atoi) | Medium | [Q](https://leetcode.com/problems/string-to-integer-atoi/) | [A](/solutions/8.py) |
 | 7 | Reverse Integer | Easy | [Q](https://leetcode.com/problems/reverse-integer/) | [A](/solutions/7.py) |
