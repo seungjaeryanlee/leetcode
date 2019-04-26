@@ -5,6 +5,7 @@
 | ID    | Name | Difficulty | Q | A |
 |-------|------|------------|---|---|
 |   20  | Valid Parentheses | Easy | [Q](https://leetcode.com/problems/valid-parentheses/) | [A](/solutions/20.py) |
+|   19  | Remove Nth Node From End of List | Medium | [Q](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [A1](/solutions/19-1.py) [A2](/solutions/19-2.py) |
 |   18* | 4Sum | Medium | [Q](https://leetcode.com/problems/4sum/) | [A](/solutions/18.py) |
 |   17  | Letter Combinations of a Phone Number | Medium | [Q](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [A](/solutions/17.py) |
 |   16  | 3Sum Closest | Medium | [Q](https://leetcode.com/problems/3sum-closest/) | [A](/solutions/16.py) |
