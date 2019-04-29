@@ -4,6 +4,7 @@
 
 | ID    | Name | Difficulty | Q | A |
 |-------|------|------------|---|---|
+|   28  | Implement strStr() | Easy | [Q](https://leetcode.com/problems/implement-strstr/) | [A](/solutions/28.py) |
 |   27  | Remove Element | Easy | [Q](https://leetcode.com/problems/remove-element/) | [A](/solutions/27.py) |
 |   26  | Remove Duplicates from Sorted Array | Easy | [Q](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [A](/solutions/26.py) |
 |   24  | Swap Nodes in Pairs | Medium | [Q](https://leetcode.com/problems/swap-nodes-in-pairs/) | [A](/solutions/24.py) |
