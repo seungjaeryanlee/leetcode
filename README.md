@@ -4,6 +4,7 @@
 
 | ID    | Name | Difficulty | Q | A |
 |-------|------|------------|---|---|
+|   24  | Swap Nodes in Pairs | Medium | [Q](https://leetcode.com/problems/swap-nodes-in-pairs/) | [A](/solutions/24.py) |
 |   23+ | Merge k Sorted Lists | Hard | [Q](https://leetcode.com/problems/merge-k-sorted-lists/) | [A1](/solutions/23-1.py) [A2](/solutions/23-2.py) |
 |   22  | Generate Parentheses | Medium | [Q](https://leetcode.com/problems/generate-parentheses/) | [A1](/solutions/22-1.py) [A2](/solutions/22-2.py) |
 |   21  | Merge Two Sorted Lists | Easy | [Q](https://leetcode.com/problems/merge-two-sorted-lists/) | [A](/solutions/21.py) |
