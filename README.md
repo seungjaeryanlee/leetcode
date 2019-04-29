@@ -4,6 +4,7 @@
 
 | ID    | Name | Difficulty | Q | A |
 |-------|------|------------|---|---|
+|   23+ | Merge k Sorted Lists | Hard | [Q](https://leetcode.com/problems/merge-k-sorted-lists/) | [A1](/solutions/23-1.py) [A2](/solutions/23-2.py) |
 |   22  | Generate Parentheses | Medium | [Q](https://leetcode.com/problems/generate-parentheses/) | [A1](/solutions/22-1.py) [A2](/solutions/22-2.py) |
 |   21  | Merge Two Sorted Lists | Easy | [Q](https://leetcode.com/problems/merge-two-sorted-lists/) | [A](/solutions/21.py) |
 |   20  | Valid Parentheses | Easy | [Q](https://leetcode.com/problems/valid-parentheses/) | [A](/solutions/20.py) |
@@ -27,3 +28,4 @@
 |    1  | Two Sum | Easy | Q | A |
 
 \* indicates that I had to look at the solution to answer this problem.
+\+ indicates that I got the problem correct, but I want to review this question again.
