@@ -4,6 +4,7 @@
 
 | ID    | Name | Difficulty | Q | A |
 |-------|------|------------|---|---|
+|   29  | Divide Two Integers | Medium | [Q](https://leetcode.com/problems/divide-two-integers/) | [A](/solutions/29.py) |
 |   28  | Implement strStr() | Easy | [Q](https://leetcode.com/problems/implement-strstr/) | [A](/solutions/28.py) |
 |   27  | Remove Element | Easy | [Q](https://leetcode.com/problems/remove-element/) | [A](/solutions/27.py) |
 |   26  | Remove Duplicates from Sorted Array | Easy | [Q](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [A](/solutions/26.py) |
@@ -32,4 +33,5 @@
 |    1  | Two Sum | Easy | Q | A |
 
 \* indicates that I had to look at the solution to answer this problem.
+
 \+ indicates that I got the problem correct, but I want to review this question again.
