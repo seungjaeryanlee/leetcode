@@ -4,6 +4,7 @@
 
 | ID    | Name | Difficulty | Q | A |
 |-------|------|------------|---|---|
+|   33  | Search in Rotated Sorted Array | Medium | [Q](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [A](/solutions/33.py) |
 |   31  | Next Permutation | Medium | [Q](https://leetcode.com/problems/next-permutation/) | [A](/solutions/31.py) |
 |   29  | Divide Two Integers | Medium | [Q](https://leetcode.com/problems/divide-two-integers/) | [A](/solutions/29.py) |
 |   28  | Implement strStr() | Easy | [Q](https://leetcode.com/problems/implement-strstr/) | [A](/solutions/28.py) |
