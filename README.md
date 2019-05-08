@@ -4,6 +4,7 @@
 
 | ID    | Name | Difficulty | Q | A |
 |-------|------|------------|---|---|
+|   31  | Next Permutation | Medium | [Q](https://leetcode.com/problems/next-permutation/) | [A](/solutions/31.py) |
 |   29  | Divide Two Integers | Medium | [Q](https://leetcode.com/problems/divide-two-integers/) | [A](/solutions/29.py) |
 |   28  | Implement strStr() | Easy | [Q](https://leetcode.com/problems/implement-strstr/) | [A](/solutions/28.py) |
 |   27  | Remove Element | Easy | [Q](https://leetcode.com/problems/remove-element/) | [A](/solutions/27.py) |
