@@ -4,6 +4,7 @@
 
 | ID    | Name | Difficulty | Q | A |
 |-------|------|------------|---|---|
+|   34  | Find First and Last Position of Element in Sorted Array | Medium | [Q](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [A](/solutions/34.py) |
 |   33  | Search in Rotated Sorted Array | Medium | [Q](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [A](/solutions/33.py) |
 |   32* | Longest Valid Parentheses | Hard | [Q](https://leetcode.com/problems/longest-valid-parentheses/) | [A](/solutions/32.py) |
 |   31  | Next Permutation | Medium | [Q](https://leetcode.com/problems/next-permutation/) | [A](/solutions/31.py) |
