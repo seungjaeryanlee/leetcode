@@ -5,6 +5,7 @@
 | ID    | Name | Difficulty | Q | A |
 |-------|------|------------|---|---|
 |   36  | Valid Sudoku | Medium | [Q](https://leetcode.com/problems/valid-sudoku/) | [A](/solutions/36.py) |
+|   35  | Search Insert Position | Easy | [Q](https://leetcode.com/problems/search-insert-position/) | [A](/solutions/35.py) |
 |   34  | Find First and Last Position of Element in Sorted Array | Medium | [Q](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [A](/solutions/34.py) |
 |   33  | Search in Rotated Sorted Array | Medium | [Q](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [A](/solutions/33.py) |
 |   32* | Longest Valid Parentheses | Hard | [Q](https://leetcode.com/problems/longest-valid-parentheses/) | [A](/solutions/32.py) |
