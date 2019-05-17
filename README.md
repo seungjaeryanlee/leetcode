@@ -4,6 +4,7 @@
 
 | ID    | Name | Difficulty | Q | A |
 |-------|------|------------|---|---|
+|   39  | Combination Sum | Medium | [Q](https://leetcode.com/problems/combination-sum/) | [A](/solutions/39.py) |
 |   38  | Count and Say | Medium | [Q](https://leetcode.com/problems/count-and-say/) | [A](/solutions/38.py) |
 |   36  | Valid Sudoku | Medium | [Q](https://leetcode.com/problems/valid-sudoku/) | [A](/solutions/36.py) |
 |   35  | Search Insert Position | Easy | [Q](https://leetcode.com/problems/search-insert-position/) | [A](/solutions/35.py) |
