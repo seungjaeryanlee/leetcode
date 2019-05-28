@@ -4,6 +4,7 @@
 
 | ID    | Name | Difficulty | Q | A |
 |-------|------|------------|---|---|
+|   43  | Multiply Strings | Medium | [Q](https://leetcode.com/problems/multiply-strings/) | [A](/solutions/43.py) |
 |   39  | Combination Sum | Medium | [Q](https://leetcode.com/problems/combination-sum/) | [A](/solutions/39.py) |
 |   38  | Count and Say | Medium | [Q](https://leetcode.com/problems/count-and-say/) | [A](/solutions/38.py) |
 |   36  | Valid Sudoku | Medium | [Q](https://leetcode.com/problems/valid-sudoku/) | [A](/solutions/36.py) |
