@@ -3,6 +3,12 @@ Solution for Algorithms #973: K Closest Points to Origin
 
 Keep K closest points in a min heap.
 
+- Assuming "Mergesort"
+- Space Complexity: O(K)
+  - The heap is size K.
+- Time Complexity: O(N log K)
+  - Each heap push/pop operation is O(log K). This is done for every point (N).
+
 Runtime: 508 ms, faster than 14.68% of Python3 online submissions for K Closest Points to Origin.
 Memory Usage: 18.1 MB, less than 9.90% of Python3 online submissions for K Closest Points to Origin.
 """
@@ -34,5 +40,5 @@ class Solution:
                 # If closer point is found, pop biggest distance and add new point
                 if p.neg_distance > closest_points[0].neg_distance:
                     heappushpop(closest_points, p)
-        
+
         return [closest_point.point for closest_point in closest_points]
