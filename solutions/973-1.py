@@ -1,6 +1,8 @@
 """
 Solution for Algorithms #973: K Closest Points to Origin
 
+Keep K closest points in a min heap.
+
 Runtime: 508 ms, faster than 14.68% of Python3 online submissions for K Closest Points to Origin.
 Memory Usage: 18.1 MB, less than 9.90% of Python3 online submissions for K Closest Points to Origin.
 """
