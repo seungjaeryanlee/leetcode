@@ -5,6 +5,7 @@
 | ID    | Name | Difficulty | Q | A |
 |-------|------|------------|---|---|
 |  973  | K Closest Points to Origin | Medium | [Q](https://leetcode.com/problems/k-closest-points-to-origin/) | [A1](/solutions/973-1.py) [A2](/solutions/973-2.py) |
+|  146  | LRU Cache | Medium | [Q](https://leetcode.com/problems/lru-cache/) | [A1](/solutions/146-1.py) |
 |   43  | Multiply Strings | Medium | [Q](https://leetcode.com/problems/multiply-strings/) | [A](/solutions/43.py) |
 |   39  | Combination Sum | Medium | [Q](https://leetcode.com/problems/combination-sum/) | [A](/solutions/39.py) |
 |   38  | Count and Say | Medium | [Q](https://leetcode.com/problems/count-and-say/) | [A](/solutions/38.py) |
