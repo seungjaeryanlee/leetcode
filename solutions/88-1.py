@@ -1,6 +1,12 @@
 """
 Naive solution for Algorithms #88: Merge Sorted Array.
 
+- N: len(nums1)
+- M: len(nums2)
+- Space Complexity: O(1)
+- Time Complexity: O(MN)
+  - Shifting takes O(N) time, and this could occur O(M) times
+
 Runtime: 60 ms, faster than 8.53% of Python3 online submissions for Merge Sorted Array.
 Memory Usage: 13.3 MB, less than 18.88% of Python3 online submissions for Merge Sorted Array.
 """
