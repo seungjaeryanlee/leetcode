@@ -10,6 +10,7 @@
 |  200  | Number of Islands | Medium | [Q](https://leetcode.com/problems/number-of-islands/) | [A](/solutions/200.py) |
 |  146  | LRU Cache | Medium | [Q](https://leetcode.com/problems/lru-cache/) | [A](/solutions/146-1.py) |
 |   56  | Merge Intervals | Medium | [Q](https://leetcode.com/problems/merge-intervals/) | [A1](/solutions/56-1.py) [A2](/solutions/56-2.py) |
+|   49* | Group Anagrams | Medium | [Q](https://leetcode.com/problems/group-anagrams/) | [A1](/solutions/49-1.py) [A2](/solutions/49-2.py) [A3](/solutions/49-3.py) |
 |   43  | Multiply Strings | Medium | [Q](https://leetcode.com/problems/multiply-strings/) | [A](/solutions/43.py) |
 |   39  | Combination Sum | Medium | [Q](https://leetcode.com/problems/combination-sum/) | [A](/solutions/39.py) |
 |   38  | Count and Say | Medium | [Q](https://leetcode.com/problems/count-and-say/) | [A](/solutions/38.py) |
