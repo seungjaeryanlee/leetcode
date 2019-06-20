@@ -5,6 +5,7 @@
 | ID    | Name | Difficulty | Q | A |
 |-------|------|------------|---|---|
 |  973  | K Closest Points to Origin | Medium | [Q](https://leetcode.com/problems/k-closest-points-to-origin/) | [A1](/solutions/973-1.py) [A2](/solutions/973-2.py) |
+|  283  | Move Zeroes | Easy | [Q](https://leetcode.com/problems/move-zeroes/) | [A](/solutions/283.py) |
 |  253  | Meeting Rooms II | Medium | [Q](https://leetcode.com/problems/meeting-rooms-ii/) | [A](/solutions/253.py) |
 |  238* | Product of Array Except Self | Medium | [Q](https://leetcode.com/problems/product-of-array-except-self/) | [A1](/solutions/238-1.py) [A2](/solutions/238-2.py) |
 |  215+ | Kth Largest Element in an Array | Medium | [Q](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [A](/solutions/215.py) |
