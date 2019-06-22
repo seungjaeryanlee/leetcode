@@ -5,6 +5,7 @@
 | ID    | Name | Difficulty | Q | A |
 |-------|------|------------|---|---|
 |  973  | K Closest Points to Origin | Medium | [Q](https://leetcode.com/problems/k-closest-points-to-origin/) | [A1](/solutions/973-1.py) [A2](/solutions/973-2.py) |
+|  929  | Unique Email Addresses | Easy | [Q](https://leetcode.com/problems/unique-email-addresses/) | [A](/solutions/929.py) |
 |  621+ | Task Scheduler | Medium | [Q](https://leetcode.com/problems/task-scheduler/) | [A](/solutions/621.py) |
 |  394  | Decode String | Medium | [Q](https://leetcode.com/problems/decode-string/) | [A](/solutions/394.py) |
 |  283  | Move Zeroes | Easy | [Q](https://leetcode.com/problems/move-zeroes/) | [A](/solutions/283.py) |
