@@ -8,6 +8,7 @@
 |  929  | Unique Email Addresses | Easy | [Q](https://leetcode.com/problems/unique-email-addresses/) | [A](/solutions/929.py) |
 |  621+ | Task Scheduler | Medium | [Q](https://leetcode.com/problems/task-scheduler/) | [A](/solutions/621.py) |
 |  394  | Decode String | Medium | [Q](https://leetcode.com/problems/decode-string/) | [A](/solutions/394.py) |
+|  344  | Reverse String | Easy | [Q](https://leetcode.com/problems/reverse-string/) | [A](/solutions/344.py) |
 |  289* | Game of Life | Medium | [Q](https://leetcode.com/problems/game-of-life/) | [A1](/solutions/289-1.py) [A2](/solutions/289-2.py) |
 |  283  | Move Zeroes | Easy | [Q](https://leetcode.com/problems/move-zeroes/) | [A](/solutions/283.py) |
 |  273  | Integer to English Words | Hard | [Q](https://leetcode.com/problems/integer-to-english-words/) | [A](/solutions/273.py) |
