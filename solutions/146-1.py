@@ -1,11 +1,9 @@
 """
 Solution for Algorithms #146: LRU Cache
 
-- N: Number of operations
 - C: Capacity
-- Space Complexity: O(C)
-- Time Complexity: O(NC)
-  - Updating key_queue currently uses .remove(), which is O(C).
+- GET Time Complexity: O(C)
+- PUT Time Complexity: O(C)
 
 Runtime: 532 ms, faster than 7.34% of Python3 online submissions for LRU Cache.
 Memory Usage: 21.6 MB, less than 87.29% of Python3 online submissions for LRU Cache.
