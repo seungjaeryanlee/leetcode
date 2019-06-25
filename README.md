@@ -26,6 +26,7 @@
 |   88  | Merge Sorted Array | Easy | [Q](https://leetcode.com/problems/merge-sorted-array/) | [A1](/solutions/88-1.py) [A2](/solutions/88-2.py) [A3](/solutions/88-3.py) |
 |   79  | Word Search | Medium | [Q](https://leetcode.com/problems/word-search/) | [A](/solutions/79.py) |
 |   78* | Subsets | Medium | [Q](https://leetcode.com/problems/subsets/) | [A](/solutions/78.py) |
+|   69  | Sqrt(x) | Easy | [Q](https://leetcode.com/problems/sqrtx/) | [A1](/solutions/69-1.py) [A2](/solutions/69-2.py) [A3](/solutions/69-3.py) |
 |   67  | Add Binary | Easy | [Q](https://leetcode.com/problems/add-binary/) | [A](/solutions/67.py) |
 |   56  | Merge Intervals | Medium | [Q](https://leetcode.com/problems/merge-intervals/) | [A1](/solutions/56-1.py) [A2](/solutions/56-2.py) |
 |   49* | Group Anagrams | Medium | [Q](https://leetcode.com/problems/group-anagrams/) | [A1](/solutions/49-1.py) [A2](/solutions/49-2.py) [A3](/solutions/49-3.py) |
