@@ -25,6 +25,7 @@
 |  139* | Word Break | Medium | [Q](https://leetcode.com/problems/word-break/) | [A](/solutions/139.py) |
 |  121  | Best Time to Buy and Sell Stock | Medium | [Q](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [A](/solutions/121.py) |
 |   88  | Merge Sorted Array | Easy | [Q](https://leetcode.com/problems/merge-sorted-array/) | [A1](/solutions/88-1.py) [A2](/solutions/88-2.py) [A3](/solutions/88-3.py) |
+|   85  | Maximal Rectangle | Hard | [Q](https://leetcode.com/problems/maximal-rectangle/) | A |
 |   79  | Word Search | Medium | [Q](https://leetcode.com/problems/word-search/) | [A](/solutions/79.py) |
 |   78* | Subsets | Medium | [Q](https://leetcode.com/problems/subsets/) | [A](/solutions/78.py) |
 |   69  | Sqrt(x) | Easy | [Q](https://leetcode.com/problems/sqrtx/) | [A1](/solutions/69-1.py) [A2](/solutions/69-2.py) [A3](/solutions/69-3.py) |
