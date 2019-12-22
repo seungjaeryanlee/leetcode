@@ -24,6 +24,7 @@
 |  200  | Number of Islands | Medium | [Q](https://leetcode.com/problems/number-of-islands/) | [A](/solutions/200.py) |
 |  146  | LRU Cache | Medium | [Q](https://leetcode.com/problems/lru-cache/) | [A](/solutions/146-1.py) |
 |  139* | Word Break | Medium | [Q](https://leetcode.com/problems/word-break/) | [A](/solutions/139.py) |
+|  125  | Valid Palindrome | Easy | [Q](https://leetcode.com/problems/valid-palindrome/) | [A](/solutions/125.py) |
 |  121  | Best Time to Buy and Sell Stock | Medium | [Q](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [A](/solutions/121.py) |
 |   88  | Merge Sorted Array | Easy | [Q](https://leetcode.com/problems/merge-sorted-array/) | [A1](/solutions/88-1.py) [A2](/solutions/88-2.py) [A3](/solutions/88-3.py) |
 |   85  | Maximal Rectangle | Hard | [Q](https://leetcode.com/problems/maximal-rectangle/) | A |
