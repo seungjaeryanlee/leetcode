@@ -5,6 +5,7 @@
 | ID    | Name | Difficulty | Q | A |
 |-------|------|------------|---|---|
 |  973  | K Closest Points to Origin | Medium | [Q](https://leetcode.com/problems/k-closest-points-to-origin/) | [A1](/solutions/973-1.py) [A2](/solutions/973-2.py) |
+|  953  | Verifying an Alien Dictionary | Easy | [Q](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [A](/solutions/953.py) |
 |  929  | Unique Email Addresses | Easy | [Q](https://leetcode.com/problems/unique-email-addresses/) | [A](/solutions/929.py) |
 |  621+ | Task Scheduler | Medium | [Q](https://leetcode.com/problems/task-scheduler/) | [A](/solutions/621.py) |
 |  412  | Fizz Buzz | Easy | [Q](https://leetcode.com/problems/fizz-buzz/) | [A](/solutions/412.py) |
