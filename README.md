@@ -70,7 +70,7 @@
 |    5  | Longest Palindromic Substring | Medium | [Q](https://leetcode.com/problems/longest-palindromic-substring/) | [A](/solutions/5.py) |
 |    3  | Longest Substring Without Repeating Characters | Medium | [Q](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [A](/solutions/3.py) |
 |    2  | Add Two Numbers | Medium | Q | A |
-|    1  | Two Sum | Easy | Q | A |
+|    1  | Two Sum | Easy | [Q](https://leetcode.com/problems/two-sum/) | [A1](/solutions/1-1.py) [A2](/solutions/1-2.py) [A3](/solutions/1-3.py) |
 
 \* indicates that I had to look at the solution to answer this problem.
 
