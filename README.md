@@ -1,5 +1,11 @@
 # LeetCode
 
+## Challenges
+
+| Month     | Week | Name | Q | A |
+|-----------|------|------|---|---|
+
+
 ## Algorithms
 
 | ID    | Name | Difficulty | Q | A |
