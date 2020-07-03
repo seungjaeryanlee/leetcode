@@ -1,10 +1,14 @@
 # LeetCode
 
+- \* indicates that I could not solve the problem.
+- \# indicates that I did not write the most optimal solution.
+- \+ indicates that I found the optimal solution, but I want to review this problem again.
+
 ## Challenges
 
-| Month     | Week | Name | Q | A |
-|-----------|------|------|---|---|
-
+| ID          | Name | Q | A |
+|-------------|------|---|---|
+| 202007W1D1# | Arranging Coins | [Q](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3377/) | [A](/challenges/2020/07/W1/D1.py) |
 
 ## Algorithms
 
@@ -79,7 +83,3 @@
 |    3  | Longest Substring Without Repeating Characters | Medium | [Q](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [A](/solutions/3.py) |
 |    2  | Add Two Numbers | Medium | Q | A |
 |    1  | Two Sum | Easy | [Q](https://leetcode.com/problems/two-sum/) | [A1](/solutions/1-1.py) [A2](/solutions/1-2.py) [A3](/solutions/1-3.py) |
-
-\* indicates that I had to look at the solution to answer this problem.
-
-\+ indicates that I got the problem correct, but I want to review this question again.
