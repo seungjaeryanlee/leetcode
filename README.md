@@ -9,6 +9,7 @@
 
 | ID          | Name | Q | A |
 |-------------|------|---|---|
+| 202007W1D6  | Plus One | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3382/) | [A](/challenges/2020/07/W1/D6.py) |
 | 202007W1D5# | Hamming Distance | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3381/) | [A](/challenges/2020/07/W1/D5.py) |
 | 202007W1D4# | Ugly Number II | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3380/) | [A](/challenges/2020/07/W1/D4.py) |
 | 202007W1D3+ | Prison Cells After N Days | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3379/) | [A](/challenges/2020/07/W1/D3.py) |
