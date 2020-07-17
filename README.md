@@ -7,8 +7,10 @@
 
 ## Challenges
 
+
 | ID          | Name | Q | A |
 |-------------|------|---|---|
+| 202007W1D8* | 3Sum | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3384/) | [A](/challenges/2020/07/W2/D1.py) |
 | 202007W1D7# | Island Perimeter | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3383/) | [A](/challenges/2020/07/W1/D7.py) |
 | 202007W1D6  | Plus One | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3382/) | [A](/challenges/2020/07/W1/D6.py) |
 | 202007W1D5# | Hamming Distance | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3381/) | [A](/challenges/2020/07/W1/D5.py) |
