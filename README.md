@@ -10,6 +10,11 @@
 
 | ID          | Name | Q | A |
 |-------------|------|---|---|
+| 202007W2D7  | Angle Between Hands of a Clock | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3390/) | A |
+| 202007W2D6  | Same Tree | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3389/) | A |
+| 202007W2D5  | Reverse Bits | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3388/) | A |
+| 202007W2D4  | Subsets | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3387/) | A |
+| 202007W2D3  | Flatten a Multilevel Doubly Linked List | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3386/) | A |
 | 202007W2D2  | Maximum Width of Binary Tree | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3385/) | [A](/challenges/2020/07/W2/D2.py) |
 | 202007W2D1* | 3Sum | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3384/) | [A](/challenges/2020/07/W2/D1.py) |
 | 202007W1D7# | Island Perimeter | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3383/) | [A](/challenges/2020/07/W1/D7.py) |
