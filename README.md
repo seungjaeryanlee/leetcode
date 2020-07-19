@@ -11,7 +11,7 @@
 | ID          | Name | Q | A |
 |-------------|------|---|---|
 | 202007W2D7  | Angle Between Hands of a Clock | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3390/) | A |
-| 202007W2D6  | Same Tree | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3389/) | A |
+| 202007W2D6  | Same Tree | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3389/) | [A](/challenges/2020/07/W2/D6.py) |
 | 202007W2D5  | Reverse Bits | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3388/) | A |
 | 202007W2D4  | Subsets | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3387/) | [A](/challenges/2020/07/W2/D4.py) |
 | 202007W2D3  | Flatten a Multilevel Doubly Linked List | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3386/) | A |
