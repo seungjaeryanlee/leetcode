@@ -11,7 +11,7 @@
 | ID          | Name | Q | A |
 |-------------|------|---|---|
 | 202007W4D7  | Task Scheduler | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3404/) | [A](/challenges/2020/07/W4/D7.py) |
-| 202007W4D6  | Construct Binary Tree from Inorder and Postorder Traversal | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3403/) | A |
+| 202007W4D6* | Construct Binary Tree from Inorder and Postorder Traversal | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3403/) | A |
 | 202007W4D5# | Add Digits | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3402/) | [A](/challenges/2020/07/W4/D5.py) |
 | 202007W4D4# | Find Minimum in Rotated Sorted Array II | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3401/) | [A](/challenges/2020/07/W4/D4.py) |
 | 202007W4D3# | All Paths From Source to Target | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3400/) | [A](/challenges/2020/07/W4/D3.py) |
