@@ -10,6 +10,13 @@
 
 | ID          | Name | Q | A |
 |-------------|------|---|---|
+| 202007W4D7  | Task Scheduler | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3404/) | A |
+| 202007W4D6  | Construct Binary Tree from Inorder and Postorder Traversal | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3403/) | A |
+| 202007W4D5  | Add Digits | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3402/) | A |
+| 202007W4D4  | Find Minimum in Rotated Sorted Array II | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3401/) | A |
+| 202007W4D3  | All Paths From Source to Target | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3400/) | A |
+| 202007W4D2  | Single Number III | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3399/) | A |
+| 202007W4D1  | Binary Tree Zigzag Level Order Traversal | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3398/) | A |
 | 202007W3D7  | Word Search | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3397/) | A |
 | 202007W3D6  | Remove Linked List Elements | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3396/) | A |
 | 202007W3D5  | Add Binary | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3395/) | A |
