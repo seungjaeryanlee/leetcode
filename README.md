@@ -10,6 +10,13 @@
 
 | ID          | Name | Q | A |
 |-------------|------|---|---|
+| 202007W3D7  | Word Search | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3397/) | A |
+| 202007W3D6  | Remove Linked List Elements | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3396/) | A |
+| 202007W3D5  | Add Binary | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3395/) | A |
+| 202007W3D4  | Course Schedule II | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3394/) | A |
+| 202007W3D3  | Top K Frequent Elements | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3393/) | A |
+| 202007W3D2  | Pow(x, n) | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3392/) | A |
+| 202007W3D1  | Reverse Words in a String | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3391/) | A |
 | 202007W2D7  | Angle Between Hands of a Clock | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3390/) | [A](/challenges/2020/07/W2/D7.py) |
 | 202007W2D6  | Same Tree | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3389/) | [A](/challenges/2020/07/W2/D6.py) |
 | 202007W2D5  | Reverse Bits | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3388/) | A |
