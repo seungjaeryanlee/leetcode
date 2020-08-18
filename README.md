@@ -11,6 +11,7 @@
 | ID          | Name | Q | A |
 |-------------|------|---|---|
 | 202008W3D5  | Numbers With Same Consecutive Differences | [Q](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3428/) | [A](/challenges/2020/08/W3/D5.py) |
+| 202008W2D7  | Longest Palindrome | [Q](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3423/) | [A](/challenges/2020/08/W2/D7.py) |
 | 202007W4D7  | Task Scheduler | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3404/) | [A](/challenges/2020/07/W4/D7.py) |
 | 202007W4D6* | Construct Binary Tree from Inorder and Postorder Traversal | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3403/) | A |
 | 202007W4D5# | Add Digits | [Q](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3402/) | [A](/challenges/2020/07/W4/D5.py) |
